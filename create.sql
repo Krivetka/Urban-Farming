@@ -55,5 +55,7 @@ CREATE TABLE MaintenanceLogs (
     SystemID INT NOT NULL,
     MaintenanceDate DATE NOT NULL,
     Description TEXT,
+    Type VARCHAR(10) NOT NULL CHECK (Type IN ('OK', 'Warning', 'Error', 'Info', 'Critical')),
     FOREIGN KEY (SystemID) REFERENCES HydroponicSystems(SystemID)
 );
+
