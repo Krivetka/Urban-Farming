@@ -1,0 +1,356 @@
+FarmName,PlantName,HarvestDate,Quantity,MeasurementType,MeasurementValue,MeasurementDateTime
+Pittstown Farm,Tomatoes,2025-01-05,881.42,Humidity,48.15,2025-01-02 06:21:08
+Pittstown Farm,Tomatoes,2025-01-05,881.42,Humidity,10.0,2025-01-01 17:44:09
+Pittstown Farm,Tomatoes,2025-01-05,881.42,PH,12.0,2025-01-02 17:23:48
+Pittstown Farm,Basil,2025-01-08,468.59,Humidity,48.15,2025-01-02 06:21:08
+Pittstown Farm,Basil,2025-01-08,468.59,Humidity,10.0,2025-01-01 17:44:09
+Pittstown Farm,Basil,2025-01-08,468.59,PH,12.0,2025-01-02 17:23:48
+Pittstown Farm,Kale,2025-01-01,562.97,Humidity,48.15,2025-01-02 06:21:08
+Pittstown Farm,Kale,2025-01-01,562.97,Humidity,10.0,2025-01-01 17:44:09
+Pittstown Farm,Kale,2025-01-01,562.97,PH,12.0,2025-01-02 17:23:48
+Lake Samantha Farm,Spinach,2025-01-05,651.91,Light Intensity,41.98,2025-01-03 13:21:37
+Lake Samantha Farm,Spinach,2025-01-05,651.91,PH,12.0,2025-01-01 05:55:05
+Lake Samantha Farm,Spinach,2025-01-05,651.91,Humidity,35.73,2025-01-03 21:44:03
+South Kayla Fields,Tomatoes,2025-01-02,997.0,PH,7.3,2025-01-10 00:54:24
+South Kayla Fields,Tomatoes,2025-01-02,997.0,Humidity,74.17,2025-01-09 09:46:23
+South Kayla Fields,Tomatoes,2025-01-02,997.0,Temperature,27.18,2025-01-02 09:37:56
+South Kayla Fields,Tomatoes,2025-01-02,997.0,Light Intensity,78.22,2025-01-02 14:20:17
+South Kayla Fields,Tomatoes,2025-01-02,997.0,PH,12.0,2025-01-08 08:52:21
+Jenniferport Plantation,Kale,2025-01-03,363.7,Light Intensity,22.69,2025-01-09 18:51:01
+Jenniferport Plantation,Cucumbers,2025-01-05,734.68,Light Intensity,22.69,2025-01-09 18:51:01
+Medinahaven Plantation,Eggplant,2025-01-09,739.0,Light Intensity,38.93,2025-01-04 19:53:53
+Medinahaven Plantation,Eggplant,2025-01-09,739.0,Humidity,84.05,2025-01-09 14:21:37
+Medinahaven Plantation,Eggplant,2025-01-09,739.0,Humidity,85.41,2025-01-02 05:37:19
+Medinahaven Plantation,Spinach,2025-01-05,692.05,Light Intensity,38.93,2025-01-04 19:53:53
+Medinahaven Plantation,Spinach,2025-01-05,692.05,Humidity,84.05,2025-01-09 14:21:37
+Medinahaven Plantation,Spinach,2025-01-05,692.05,Humidity,85.41,2025-01-02 05:37:19
+Medinahaven Plantation,Eggplant,2025-01-01,164.54,Light Intensity,38.93,2025-01-04 19:53:53
+Medinahaven Plantation,Eggplant,2025-01-01,164.54,Humidity,84.05,2025-01-09 14:21:37
+Medinahaven Plantation,Eggplant,2025-01-01,164.54,Humidity,85.41,2025-01-02 05:37:19
+Rayfort Greenhouse,Eggplant,2025-01-07,641.27,Light Intensity,82.99,2025-01-08 16:50:24
+Rayfort Greenhouse,Eggplant,2025-01-07,641.27,Light Intensity,28.51,2025-01-04 07:41:58
+Rayfort Greenhouse,Eggplant,2025-01-07,641.27,Light Intensity,30.25,2025-01-08 12:27:48
+Rayfort Greenhouse,Eggplant,2025-01-07,641.27,PH,12.0,2025-01-05 08:10:38
+Rayfort Greenhouse,Eggplant,2025-01-07,641.27,Temperature,40.0,2025-01-03 19:04:43
+Rayfort Greenhouse,Cucumbers,2025-01-07,408.84,Light Intensity,82.99,2025-01-08 16:50:24
+Rayfort Greenhouse,Cucumbers,2025-01-07,408.84,Light Intensity,28.51,2025-01-04 07:41:58
+Rayfort Greenhouse,Cucumbers,2025-01-07,408.84,Light Intensity,30.25,2025-01-08 12:27:48
+Rayfort Greenhouse,Cucumbers,2025-01-07,408.84,PH,12.0,2025-01-05 08:10:38
+Rayfort Greenhouse,Cucumbers,2025-01-07,408.84,Temperature,40.0,2025-01-03 19:04:43
+North Jeremy Plantation,Cucumbers,2025-01-05,999.34,Temperature,40.0,2025-01-05 16:24:47
+North Jeremy Plantation,Cucumbers,2025-01-05,999.34,PH,12.0,2025-01-07 18:25:56
+North Jeremy Plantation,Cucumbers,2025-01-05,999.34,Temperature,28.35,2025-01-04 09:31:15
+North Jeremy Plantation,Cucumbers,2025-01-05,999.34,PH,12.0,2025-01-04 08:04:23
+North Jeremy Plantation,Mint,2025-01-09,569.32,Temperature,40.0,2025-01-05 16:24:47
+North Jeremy Plantation,Mint,2025-01-09,569.32,PH,12.0,2025-01-07 18:25:56
+North Jeremy Plantation,Mint,2025-01-09,569.32,Temperature,28.35,2025-01-04 09:31:15
+North Jeremy Plantation,Mint,2025-01-09,569.32,PH,12.0,2025-01-04 08:04:23
+North Jeremy Plantation,Peppers,2025-01-01,897.97,Temperature,40.0,2025-01-05 16:24:47
+North Jeremy Plantation,Peppers,2025-01-01,897.97,PH,12.0,2025-01-07 18:25:56
+North Jeremy Plantation,Peppers,2025-01-01,897.97,Temperature,28.35,2025-01-04 09:31:15
+North Jeremy Plantation,Peppers,2025-01-01,897.97,PH,12.0,2025-01-04 08:04:23
+East Daniel Fields,Peppers,2025-01-05,446.47,PH,12.0,2025-01-02 07:57:27
+East Daniel Fields,Peppers,2025-01-05,446.47,Temperature,40.0,2025-01-01 13:56:00
+East Daniel Fields,Peppers,2025-01-05,446.47,Temperature,40.0,2025-01-01 22:02:06
+East Daniel Fields,Kale,2025-01-05,517.91,PH,12.0,2025-01-02 07:57:27
+East Daniel Fields,Kale,2025-01-05,517.91,Temperature,40.0,2025-01-01 13:56:00
+East Daniel Fields,Kale,2025-01-05,517.91,Temperature,40.0,2025-01-01 22:02:06
+Kleinport Farm,Peppers,2025-01-07,978.23,Humidity,64.49,2025-01-09 06:05:07
+Kleinport Farm,Basil,2025-01-09,403.56,Humidity,64.49,2025-01-09 06:05:07
+Kleinport Farm,Strawberries,2025-01-03,336.18,Humidity,64.49,2025-01-09 06:05:07
+Kleinport Farm,Peppers,2025-01-06,816.21,Humidity,64.49,2025-01-09 06:05:07
+Dianaside Greenhouse,Kale,2025-01-04,392.44,Light Intensity,64.65,2025-01-03 05:59:41
+Dianaside Greenhouse,Kale,2025-01-04,392.44,Light Intensity,10.0,2025-01-03 16:11:06
+Dianaside Greenhouse,Basil,2025-01-09,318.47,Light Intensity,64.65,2025-01-03 05:59:41
+Dianaside Greenhouse,Basil,2025-01-09,318.47,Light Intensity,10.0,2025-01-03 16:11:06
+Port Laurenshire Greenhouse,Tomatoes,2025-01-01,144.24,Temperature,10.0,2025-01-03 22:34:06
+Port Laurenshire Greenhouse,Tomatoes,2025-01-01,144.24,Humidity,74.23,2025-01-04 09:34:39
+Port Laurenshire Greenhouse,Tomatoes,2025-01-01,144.24,Humidity,18.66,2025-01-08 08:39:37
+Port Laurenshire Greenhouse,Tomatoes,2025-01-01,144.24,Temperature,40.0,2025-01-10 10:40:31
+Port Laurenshire Greenhouse,Tomatoes,2025-01-01,144.24,Humidity,88.31,2025-01-09 21:56:25
+Port Laurenshire Greenhouse,Strawberries,2025-01-07,727.72,Temperature,10.0,2025-01-03 22:34:06
+Port Laurenshire Greenhouse,Strawberries,2025-01-07,727.72,Humidity,74.23,2025-01-04 09:34:39
+Port Laurenshire Greenhouse,Strawberries,2025-01-07,727.72,Humidity,18.66,2025-01-08 08:39:37
+Port Laurenshire Greenhouse,Strawberries,2025-01-07,727.72,Temperature,40.0,2025-01-10 10:40:31
+Port Laurenshire Greenhouse,Strawberries,2025-01-07,727.72,Humidity,88.31,2025-01-09 21:56:25
+Port Laurenshire Greenhouse,Eggplant,2025-01-05,409.5,Temperature,10.0,2025-01-03 22:34:06
+Port Laurenshire Greenhouse,Eggplant,2025-01-05,409.5,Humidity,74.23,2025-01-04 09:34:39
+Port Laurenshire Greenhouse,Eggplant,2025-01-05,409.5,Humidity,18.66,2025-01-08 08:39:37
+Port Laurenshire Greenhouse,Eggplant,2025-01-05,409.5,Temperature,40.0,2025-01-10 10:40:31
+Port Laurenshire Greenhouse,Eggplant,2025-01-05,409.5,Humidity,88.31,2025-01-09 21:56:25
+Port Laurenshire Greenhouse,Lettuce,2025-01-07,831.47,Temperature,10.0,2025-01-03 22:34:06
+Port Laurenshire Greenhouse,Lettuce,2025-01-07,831.47,Humidity,74.23,2025-01-04 09:34:39
+Port Laurenshire Greenhouse,Lettuce,2025-01-07,831.47,Humidity,18.66,2025-01-08 08:39:37
+Port Laurenshire Greenhouse,Lettuce,2025-01-07,831.47,Temperature,40.0,2025-01-10 10:40:31
+Port Laurenshire Greenhouse,Lettuce,2025-01-07,831.47,Humidity,88.31,2025-01-09 21:56:25
+Garciaport Plantation,Basil,2025-01-02,150.38,PH,12.0,2025-01-02 10:52:26
+Garciaport Plantation,Basil,2025-01-02,150.38,Humidity,17.3,2025-01-07 23:27:27
+Garciaport Plantation,Basil,2025-01-02,150.38,Humidity,46.97,2025-01-01 23:35:09
+Garciaport Plantation,Basil,2025-01-02,150.38,PH,12.0,2025-01-06 06:11:19
+Garciaport Plantation,Spinach,2025-01-03,983.77,PH,12.0,2025-01-02 10:52:26
+Garciaport Plantation,Spinach,2025-01-03,983.77,Humidity,17.3,2025-01-07 23:27:27
+Garciaport Plantation,Spinach,2025-01-03,983.77,Humidity,46.97,2025-01-01 23:35:09
+Garciaport Plantation,Spinach,2025-01-03,983.77,PH,12.0,2025-01-06 06:11:19
+Garciaport Plantation,Strawberries,2025-01-07,203.5,PH,12.0,2025-01-02 10:52:26
+Garciaport Plantation,Strawberries,2025-01-07,203.5,Humidity,17.3,2025-01-07 23:27:27
+Garciaport Plantation,Strawberries,2025-01-07,203.5,Humidity,46.97,2025-01-01 23:35:09
+Garciaport Plantation,Strawberries,2025-01-07,203.5,PH,12.0,2025-01-06 06:11:19
+Garciaport Plantation,Strawberries,2025-01-07,925.3,PH,12.0,2025-01-02 10:52:26
+Garciaport Plantation,Strawberries,2025-01-07,925.3,Humidity,17.3,2025-01-07 23:27:27
+Garciaport Plantation,Strawberries,2025-01-07,925.3,Humidity,46.97,2025-01-01 23:35:09
+Garciaport Plantation,Strawberries,2025-01-07,925.3,PH,12.0,2025-01-06 06:11:19
+North Brittanytown Farm,Mint,2025-01-01,223.93,PH,12.0,2025-01-06 13:11:57
+North Brittanytown Farm,Mint,2025-01-01,223.93,PH,12.0,2025-01-04 14:32:36
+North Brittanytown Farm,Mint,2025-01-01,223.93,Humidity,60.91,2025-01-08 05:56:44
+North Brittanytown Farm,Eggplant,2025-01-04,391.36,PH,12.0,2025-01-06 13:11:57
+North Brittanytown Farm,Eggplant,2025-01-04,391.36,PH,12.0,2025-01-04 14:32:36
+North Brittanytown Farm,Eggplant,2025-01-04,391.36,Humidity,60.91,2025-01-08 05:56:44
+South Tara Fields,Spinach,2025-01-07,244.25,Temperature,11.02,2025-01-05 10:34:10
+South Tara Fields,Mint,2025-01-07,339.14,Temperature,11.02,2025-01-05 10:34:10
+South Tara Fields,Kale,2025-01-07,272.33,Temperature,11.02,2025-01-05 10:34:10
+South Tara Fields,Kale,2025-01-07,482.99,Temperature,11.02,2025-01-05 10:34:10
+South Tara Fields,Cucumbers,2025-01-08,819.06,Temperature,11.02,2025-01-05 10:34:10
+Robertshire Plantation,Mint,2025-01-04,294.97,Humidity,32.63,2025-01-07 02:25:57
+Robertshire Plantation,Mint,2025-01-04,294.97,Temperature,40.0,2025-01-05 17:41:37
+West Karen Greenhouse,Basil,2025-01-03,891.61,Temperature,40.0,2025-01-08 22:42:44
+West Karen Greenhouse,Basil,2025-01-03,891.61,PH,5.21,2025-01-08 10:29:09
+West Karen Greenhouse,Strawberries,2025-01-06,459.16,Temperature,40.0,2025-01-08 22:42:44
+West Karen Greenhouse,Strawberries,2025-01-06,459.16,PH,5.21,2025-01-08 10:29:09
+West Karen Greenhouse,Cucumbers,2025-01-07,474.92,Temperature,40.0,2025-01-08 22:42:44
+West Karen Greenhouse,Cucumbers,2025-01-07,474.92,PH,5.21,2025-01-08 10:29:09
+Smithport Greenhouse,Eggplant,2025-01-02,819.81,Humidity,61.0,2025-01-04 17:56:28
+Smithport Greenhouse,Eggplant,2025-01-02,819.81,Humidity,23.81,2025-01-02 02:22:30
+Smithport Greenhouse,Eggplant,2025-01-02,819.81,Humidity,38.17,2025-01-10 13:31:09
+Smithport Greenhouse,Eggplant,2025-01-02,819.81,PH,12.0,2025-01-01 07:36:57
+Smithport Greenhouse,Eggplant,2025-01-02,819.81,Humidity,32.21,2025-01-03 13:01:19
+Smithport Greenhouse,Eggplant,2025-01-02,819.81,Temperature,40.0,2025-01-07 13:54:44
+New William Plantation,Spinach,2025-01-09,488.58,Temperature,10.0,2025-01-06 03:14:41
+New William Plantation,Peppers,2025-01-01,902.76,Temperature,10.0,2025-01-06 03:14:41
+North Michaelside Orchard,Strawberries,2025-01-05,357.92,PH,12.0,2025-01-06 16:20:36
+North Michaelside Orchard,Strawberries,2025-01-05,357.92,Temperature,40.0,2025-01-08 00:28:26
+North Michaelside Orchard,Peppers,2025-01-07,368.55,PH,12.0,2025-01-06 16:20:36
+North Michaelside Orchard,Peppers,2025-01-07,368.55,Temperature,40.0,2025-01-08 00:28:26
+North Michaelside Orchard,Cucumbers,2025-01-05,401.94,PH,12.0,2025-01-06 16:20:36
+North Michaelside Orchard,Cucumbers,2025-01-05,401.94,Temperature,40.0,2025-01-08 00:28:26
+North Michaelside Orchard,Kale,2025-01-04,590.15,PH,12.0,2025-01-06 16:20:36
+North Michaelside Orchard,Kale,2025-01-04,590.15,Temperature,40.0,2025-01-08 00:28:26
+Port Hectorton Farm,Lettuce,2025-01-03,363.16,PH,12.0,2025-01-01 08:46:50
+Port Hectorton Farm,Lettuce,2025-01-03,363.16,PH,12.0,2025-01-09 15:56:51
+Port Hectorton Farm,Kale,2025-01-06,753.75,PH,12.0,2025-01-01 08:46:50
+Port Hectorton Farm,Kale,2025-01-06,753.75,PH,12.0,2025-01-09 15:56:51
+Port Hectorton Farm,Lettuce,2025-01-05,637.25,PH,12.0,2025-01-01 08:46:50
+Port Hectorton Farm,Lettuce,2025-01-05,637.25,PH,12.0,2025-01-09 15:56:51
+Port Hectorton Farm,Eggplant,2025-01-01,649.55,PH,12.0,2025-01-01 08:46:50
+Port Hectorton Farm,Eggplant,2025-01-01,649.55,PH,12.0,2025-01-09 15:56:51
+East John Orchard,Spinach,2025-01-08,898.87,Humidity,10.0,2025-01-01 05:51:01
+East John Orchard,Spinach,2025-01-08,898.87,Humidity,89.68,2025-01-02 10:45:08
+East John Orchard,Spinach,2025-01-08,898.87,Humidity,39.73,2025-01-01 12:12:59
+East John Orchard,Spinach,2025-01-08,898.87,Light Intensity,94.92,2025-01-01 00:19:32
+East John Orchard,Peppers,2025-01-07,765.13,Humidity,10.0,2025-01-01 05:51:01
+East John Orchard,Peppers,2025-01-07,765.13,Humidity,89.68,2025-01-02 10:45:08
+East John Orchard,Peppers,2025-01-07,765.13,Humidity,39.73,2025-01-01 12:12:59
+East John Orchard,Peppers,2025-01-07,765.13,Light Intensity,94.92,2025-01-01 00:19:32
+East John Orchard,Lettuce,2025-01-02,915.58,Humidity,10.0,2025-01-01 05:51:01
+East John Orchard,Lettuce,2025-01-02,915.58,Humidity,89.68,2025-01-02 10:45:08
+East John Orchard,Lettuce,2025-01-02,915.58,Humidity,39.73,2025-01-01 12:12:59
+East John Orchard,Lettuce,2025-01-02,915.58,Light Intensity,94.92,2025-01-01 00:19:32
+Susantown Orchard,Strawberries,2025-01-07,561.67,PH,12.0,2025-01-09 09:47:47
+Larryville Greenhouse,Kale,2025-01-08,975.44,PH,9.29,2025-01-06 13:16:20
+Larryville Greenhouse,Kale,2025-01-08,975.44,PH,11.02,2025-01-08 05:17:57
+West Kimberlyshire Farm,Mint,2025-01-06,471.45,Light Intensity,54.41,2025-01-04 13:48:02
+West Kimberlyshire Farm,Mint,2025-01-06,471.45,PH,12.0,2025-01-10 15:50:55
+West Kimberlyshire Farm,Mint,2025-01-06,471.45,Humidity,60.28,2025-01-02 16:14:56
+West Kimberlyshire Farm,Mint,2025-01-03,225.84,Light Intensity,54.41,2025-01-04 13:48:02
+West Kimberlyshire Farm,Mint,2025-01-03,225.84,PH,12.0,2025-01-10 15:50:55
+West Kimberlyshire Farm,Mint,2025-01-03,225.84,Humidity,60.28,2025-01-02 16:14:56
+West Kimberlyshire Farm,Spinach,2025-01-06,248.3,Light Intensity,54.41,2025-01-04 13:48:02
+West Kimberlyshire Farm,Spinach,2025-01-06,248.3,PH,12.0,2025-01-10 15:50:55
+West Kimberlyshire Farm,Spinach,2025-01-06,248.3,Humidity,60.28,2025-01-02 16:14:56
+Claudiatown Farm,Eggplant,2025-01-05,131.14,Humidity,88.93,2025-01-10 04:42:43
+Claudiatown Farm,Eggplant,2025-01-05,131.14,Humidity,74.48,2025-01-09 13:43:00
+Claudiatown Farm,Kale,2025-01-03,624.89,Humidity,88.93,2025-01-10 04:42:43
+Claudiatown Farm,Kale,2025-01-03,624.89,Humidity,74.48,2025-01-09 13:43:00
+Dianeport Orchard,Strawberries,2025-01-01,615.64,Humidity,87.13,2025-01-03 15:59:34
+Dianeport Orchard,Strawberries,2025-01-01,615.64,Temperature,40.0,2025-01-01 23:43:03
+Melodybury Orchard,Basil,2025-01-02,655.97,Temperature,40.0,2025-01-03 09:43:44
+Lake Allenfort Plantation,Mint,2025-01-07,672.02,PH,12.0,2025-01-08 14:35:10
+Lake Allenfort Plantation,Basil,2025-01-02,728.85,PH,12.0,2025-01-08 14:35:10
+Lake Allenfort Plantation,Peppers,2025-01-05,181.37,PH,12.0,2025-01-08 14:35:10
+Lisamouth Fields,Kale,2025-01-05,531.07,PH,2.82,2025-01-07 13:56:54
+Lisamouth Fields,Kale,2025-01-05,531.07,Humidity,70.11,2025-01-03 08:45:54
+Lisamouth Fields,Spinach,2025-01-09,884.58,PH,2.82,2025-01-07 13:56:54
+Lisamouth Fields,Spinach,2025-01-09,884.58,Humidity,70.11,2025-01-03 08:45:54
+Lisamouth Fields,Cucumbers,2025-01-06,314.91,PH,2.82,2025-01-07 13:56:54
+Lisamouth Fields,Cucumbers,2025-01-06,314.91,Humidity,70.11,2025-01-03 08:45:54
+Greenport Greenhouse,Lettuce,2025-01-02,247.43,PH,12.0,2025-01-10 02:32:21
+Greenport Greenhouse,Lettuce,2025-01-02,320.69,PH,12.0,2025-01-10 02:32:21
+Greenport Greenhouse,Mint,2025-01-08,798.84,PH,12.0,2025-01-10 02:32:21
+Nicholsside Plantation,Peppers,2025-01-04,318.46,Light Intensity,10.08,2025-01-02 09:03:26
+Nicholsside Plantation,Lettuce,2025-01-08,710.33,Light Intensity,10.08,2025-01-02 09:03:26
+Walkerview Farm,Basil,2025-01-09,357.63,Temperature,22.17,2025-01-09 23:34:40
+Walkerview Farm,Basil,2025-01-09,357.63,PH,12.0,2025-01-04 14:02:22
+Walkerview Farm,Basil,2025-01-09,357.63,Light Intensity,89.5,2025-01-08 01:45:40
+Walkerview Farm,Strawberries,2025-01-02,199.87,Temperature,22.17,2025-01-09 23:34:40
+Walkerview Farm,Strawberries,2025-01-02,199.87,PH,12.0,2025-01-04 14:02:22
+Walkerview Farm,Strawberries,2025-01-02,199.87,Light Intensity,89.5,2025-01-08 01:45:40
+Walkerview Farm,Lettuce,2025-01-01,274.0,Temperature,22.17,2025-01-09 23:34:40
+Walkerview Farm,Lettuce,2025-01-01,274.0,PH,12.0,2025-01-04 14:02:22
+Walkerview Farm,Lettuce,2025-01-01,274.0,Light Intensity,89.5,2025-01-08 01:45:40
+Ronaldhaven Farm,Cucumbers,2025-01-05,996.53,Humidity,89.93,2025-01-01 20:53:29
+Ronaldhaven Farm,Mint,2025-01-02,760.19,Humidity,89.93,2025-01-01 20:53:29
+Ronaldhaven Farm,Lettuce,2025-01-03,696.88,Humidity,89.93,2025-01-01 20:53:29
+Ronaldhaven Farm,Spinach,2025-01-09,256.99,Humidity,89.93,2025-01-01 20:53:29
+West Chloe Plantation,Eggplant,2025-01-06,738.31,Humidity,92.21,2025-01-04 00:55:33
+West Chloe Plantation,Spinach,2025-01-08,470.68,Humidity,92.21,2025-01-04 00:55:33
+Lindamouth Greenhouse,Kale,2025-01-07,619.12,PH,12.0,2025-01-09 23:55:40
+Lindamouth Greenhouse,Kale,2025-01-07,619.12,Light Intensity,10.0,2025-01-07 08:17:04
+Lindamouth Greenhouse,Kale,2025-01-07,619.12,PH,12.0,2025-01-05 23:12:21
+Lindamouth Greenhouse,Kale,2025-01-07,619.12,PH,12.0,2025-01-05 17:50:57
+Lindamouth Greenhouse,Eggplant,2025-01-04,552.53,PH,12.0,2025-01-09 23:55:40
+Lindamouth Greenhouse,Eggplant,2025-01-04,552.53,Light Intensity,10.0,2025-01-07 08:17:04
+Lindamouth Greenhouse,Eggplant,2025-01-04,552.53,PH,12.0,2025-01-05 23:12:21
+Lindamouth Greenhouse,Eggplant,2025-01-04,552.53,PH,12.0,2025-01-05 17:50:57
+Lindamouth Greenhouse,Peppers,2025-01-06,819.71,PH,12.0,2025-01-09 23:55:40
+Lindamouth Greenhouse,Peppers,2025-01-06,819.71,Light Intensity,10.0,2025-01-07 08:17:04
+Lindamouth Greenhouse,Peppers,2025-01-06,819.71,PH,12.0,2025-01-05 23:12:21
+Lindamouth Greenhouse,Peppers,2025-01-06,819.71,PH,12.0,2025-01-05 17:50:57
+Kylemouth Orchard,Eggplant,2025-01-07,797.49,Humidity,92.9,2025-01-03 16:06:10
+Kylemouth Orchard,Eggplant,2025-01-07,797.49,Humidity,64.56,2025-01-03 15:27:46
+Kylemouth Orchard,Kale,2025-01-06,637.94,Humidity,92.9,2025-01-03 16:06:10
+Kylemouth Orchard,Kale,2025-01-06,637.94,Humidity,64.56,2025-01-03 15:27:46
+Kylemouth Orchard,Tomatoes,2025-01-09,308.69,Humidity,92.9,2025-01-03 16:06:10
+Kylemouth Orchard,Tomatoes,2025-01-09,308.69,Humidity,64.56,2025-01-03 15:27:46
+Harrisland Farm,Mint,2025-01-04,231.52,Temperature,40.0,2025-01-04 03:52:07
+East Brianside Greenhouse,Lettuce,2025-01-07,920.36,Temperature,40.0,2025-01-04 13:48:42
+East Brianside Greenhouse,Lettuce,2025-01-07,920.36,Temperature,40.0,2025-01-08 23:30:13
+East Brianside Greenhouse,Lettuce,2025-01-07,920.36,Light Intensity,48.59,2025-01-01 08:06:25
+East Brianside Greenhouse,Spinach,2025-01-01,161.34,Temperature,40.0,2025-01-04 13:48:42
+East Brianside Greenhouse,Spinach,2025-01-01,161.34,Temperature,40.0,2025-01-08 23:30:13
+East Brianside Greenhouse,Spinach,2025-01-01,161.34,Light Intensity,48.59,2025-01-01 08:06:25
+East Brianside Greenhouse,Eggplant,2025-01-02,648.06,Temperature,40.0,2025-01-04 13:48:42
+East Brianside Greenhouse,Eggplant,2025-01-02,648.06,Temperature,40.0,2025-01-08 23:30:13
+East Brianside Greenhouse,Eggplant,2025-01-02,648.06,Light Intensity,48.59,2025-01-01 08:06:25
+Port Mary Orchard,Strawberries,2025-01-03,633.65,PH,12.0,2025-01-05 20:21:41
+Port Mary Orchard,Basil,2025-01-03,371.26,PH,12.0,2025-01-05 20:21:41
+Port Mary Orchard,Cucumbers,2025-01-09,372.13,PH,12.0,2025-01-05 20:21:41
+New Alexastad Plantation,Lettuce,2025-01-03,844.89,Light Intensity,14.51,2025-01-08 06:21:10
+New Alexastad Plantation,Lettuce,2025-01-03,844.89,Light Intensity,10.0,2025-01-07 00:15:51
+New Alexastad Plantation,Lettuce,2025-01-03,844.89,Light Intensity,85.15,2025-01-09 23:45:47
+New Alexastad Plantation,Strawberries,2025-01-08,699.25,Light Intensity,14.51,2025-01-08 06:21:10
+New Alexastad Plantation,Strawberries,2025-01-08,699.25,Light Intensity,10.0,2025-01-07 00:15:51
+New Alexastad Plantation,Strawberries,2025-01-08,699.25,Light Intensity,85.15,2025-01-09 23:45:47
+New Lisa Fields,Lettuce,2025-01-03,539.17,Light Intensity,30.44,2025-01-04 10:43:50
+New Lisa Fields,Lettuce,2025-01-03,539.17,Humidity,38.77,2025-01-09 07:51:39
+New Lisa Fields,Peppers,2025-01-03,171.94,Light Intensity,30.44,2025-01-04 10:43:50
+New Lisa Fields,Peppers,2025-01-03,171.94,Humidity,38.77,2025-01-09 07:51:39
+Johnland Plantation,Eggplant,2025-01-02,396.3,Temperature,40.0,2025-01-04 06:42:10
+Johnland Plantation,Eggplant,2025-01-02,396.3,Temperature,40.0,2025-01-03 13:48:17
+Johnland Plantation,Basil,2025-01-07,437.67,Temperature,40.0,2025-01-04 06:42:10
+Johnland Plantation,Basil,2025-01-07,437.67,Temperature,40.0,2025-01-03 13:48:17
+New Lisahaven Fields,Mint,2025-01-06,228.21,Temperature,24.33,2025-01-07 15:01:31
+New Lisahaven Fields,Mint,2025-01-06,228.21,Temperature,10.0,2025-01-08 05:27:16
+New Lisahaven Fields,Mint,2025-01-06,228.21,Temperature,40.0,2025-01-07 14:07:48
+New Lisahaven Fields,Basil,2025-01-07,716.02,Temperature,24.33,2025-01-07 15:01:31
+New Lisahaven Fields,Basil,2025-01-07,716.02,Temperature,10.0,2025-01-08 05:27:16
+New Lisahaven Fields,Basil,2025-01-07,716.02,Temperature,40.0,2025-01-07 14:07:48
+Allenstad Farm,Peppers,2025-01-05,134.83,PH,12.0,2025-01-03 06:55:41
+Allenstad Farm,Spinach,2025-01-01,942.32,PH,12.0,2025-01-03 06:55:41
+Allenstad Farm,Spinach,2025-01-06,105.84,PH,12.0,2025-01-03 06:55:41
+Andersonburgh Farm,Tomatoes,2025-01-08,127.89,PH,12.0,2025-01-06 22:42:26
+Andersonburgh Farm,Tomatoes,2025-01-08,127.89,Light Intensity,29.4,2025-01-02 17:24:24
+Andersonburgh Farm,Tomatoes,2025-01-08,127.89,PH,12.0,2025-01-01 00:31:24
+Andersonburgh Farm,Cucumbers,2025-01-06,322.88,PH,12.0,2025-01-06 22:42:26
+Andersonburgh Farm,Cucumbers,2025-01-06,322.88,Light Intensity,29.4,2025-01-02 17:24:24
+Andersonburgh Farm,Cucumbers,2025-01-06,322.88,PH,12.0,2025-01-01 00:31:24
+Andersonburgh Farm,Peppers,2025-01-01,125.62,PH,12.0,2025-01-06 22:42:26
+Andersonburgh Farm,Peppers,2025-01-01,125.62,Light Intensity,29.4,2025-01-02 17:24:24
+Andersonburgh Farm,Peppers,2025-01-01,125.62,PH,12.0,2025-01-01 00:31:24
+Miguelhaven Fields,Kale,2025-01-02,458.18,Light Intensity,77.77,2025-01-06 05:15:34
+Miguelhaven Fields,Kale,2025-01-02,458.18,PH,12.0,2025-01-02 11:33:01
+Kevinfort Greenhouse,Lettuce,2025-01-03,358.97,Light Intensity,56.99,2025-01-01 04:02:27
+Jonathanfurt Fields,Tomatoes,2025-01-08,230.74,Light Intensity,19.9,2025-01-01 08:26:33
+Jonathanfurt Fields,Tomatoes,2025-01-08,230.74,Humidity,21.49,2025-01-01 00:00:32
+Bowenmouth Farm,Basil,2025-01-04,861.23,Humidity,15.35,2025-01-01 12:01:19
+Bowenmouth Farm,Basil,2025-01-04,861.23,Light Intensity,43.91,2025-01-06 18:38:53
+Bowenmouth Farm,Basil,2025-01-04,861.23,Light Intensity,10.0,2025-01-09 07:46:23
+Melissaland Plantation,Spinach,2025-01-04,304.52,Light Intensity,85.83,2025-01-03 10:39:13
+Melissaland Plantation,Spinach,2025-01-04,304.52,Light Intensity,56.45,2025-01-01 04:03:51
+Melissaland Plantation,Spinach,2025-01-04,304.52,PH,12.0,2025-01-10 16:56:01
+Melissaland Plantation,Mint,2025-01-07,103.21,Light Intensity,85.83,2025-01-03 10:39:13
+Melissaland Plantation,Mint,2025-01-07,103.21,Light Intensity,56.45,2025-01-01 04:03:51
+Melissaland Plantation,Mint,2025-01-07,103.21,PH,12.0,2025-01-10 16:56:01
+North Aprilfort Farm,Basil,2025-01-09,621.16,Temperature,40.0,2025-01-07 20:13:25
+North Aprilfort Farm,Basil,2025-01-09,621.16,Humidity,39.34,2025-01-04 00:21:25
+Burkeberg Fields,Cucumbers,2025-01-09,172.8,Light Intensity,58.34,2025-01-08 17:40:58
+Burkeberg Fields,Cucumbers,2025-01-09,172.8,PH,12.0,2025-01-03 02:47:20
+Burkeberg Fields,Cucumbers,2025-01-09,172.8,PH,12.0,2025-01-09 13:31:50
+Burkeberg Fields,Cucumbers,2025-01-09,172.8,Light Intensity,92.73,2025-01-10 08:22:56
+Lake Richard Plantation,Mint,2025-01-04,743.43,Humidity,98.0,2025-01-07 15:10:11
+Lake Richard Plantation,Mint,2025-01-04,743.43,Light Intensity,45.05,2025-01-01 06:46:19
+Lake Richard Plantation,Mint,2025-01-04,743.43,PH,12.0,2025-01-03 09:45:59
+Lake Richard Plantation,Mint,2025-01-04,743.43,Temperature,40.0,2025-01-08 03:26:09
+Lake Richard Plantation,Mint,2025-01-09,238.82,Humidity,98.0,2025-01-07 15:10:11
+Lake Richard Plantation,Mint,2025-01-09,238.82,Light Intensity,45.05,2025-01-01 06:46:19
+Lake Richard Plantation,Mint,2025-01-09,238.82,PH,12.0,2025-01-03 09:45:59
+Lake Richard Plantation,Mint,2025-01-09,238.82,Temperature,40.0,2025-01-08 03:26:09
+Evansmouth Orchard,Mint,2025-01-09,578.21,Temperature,18.44,2025-01-06 04:53:38
+Evansmouth Orchard,Kale,2025-01-06,720.69,Temperature,18.44,2025-01-06 04:53:38
+Paulfort Greenhouse,Eggplant,2025-01-09,249.56,PH,12.0,2025-01-05 03:19:51
+Paulfort Greenhouse,Eggplant,2025-01-09,249.56,PH,12.0,2025-01-05 01:40:35
+New Wandaview Orchard,Eggplant,2025-01-02,286.12,Temperature,40.0,2025-01-08 12:40:42
+New Wandaview Orchard,Cucumbers,2025-01-02,924.26,Temperature,40.0,2025-01-08 12:40:42
+Amandafort Farm,Kale,2025-01-08,740.34,Temperature,40.0,2025-01-01 03:45:06
+Amandafort Farm,Kale,2025-01-08,740.34,Humidity,81.81,2025-01-07 11:54:43
+Amandafort Farm,Kale,2025-01-08,740.34,Light Intensity,16.45,2025-01-04 08:41:00
+Amandafort Farm,Spinach,2025-01-09,332.75,Temperature,40.0,2025-01-01 03:45:06
+Amandafort Farm,Spinach,2025-01-09,332.75,Humidity,81.81,2025-01-07 11:54:43
+Amandafort Farm,Spinach,2025-01-09,332.75,Light Intensity,16.45,2025-01-04 08:41:00
+Thomasview Greenhouse,Lettuce,2025-01-03,502.09,Temperature,11.17,2025-01-08 01:01:44
+Thomasview Greenhouse,Lettuce,2025-01-03,502.09,Temperature,33.65,2025-01-07 11:37:42
+Thomasview Greenhouse,Lettuce,2025-01-03,502.09,Light Intensity,21.33,2025-01-07 12:38:45
+Thomasview Greenhouse,Mint,2025-01-09,822.65,Temperature,11.17,2025-01-08 01:01:44
+Thomasview Greenhouse,Mint,2025-01-09,822.65,Temperature,33.65,2025-01-07 11:37:42
+Thomasview Greenhouse,Mint,2025-01-09,822.65,Light Intensity,21.33,2025-01-07 12:38:45
+North Davidfort Farm,Eggplant,2025-01-08,231.43,PH,12.0,2025-01-01 13:10:54
+North Davidfort Farm,Eggplant,2025-01-08,231.43,Humidity,28.52,2025-01-04 18:15:30
+North Davidfort Farm,Mint,2025-01-01,110.9,PH,12.0,2025-01-01 13:10:54
+North Davidfort Farm,Mint,2025-01-01,110.9,Humidity,28.52,2025-01-04 18:15:30
+South Elizabethtown Fields,Kale,2025-01-02,349.38,Light Intensity,69.28,2025-01-05 19:36:07
+South Elizabethtown Fields,Kale,2025-01-02,349.38,Light Intensity,15.76,2025-01-09 11:49:09
+South Elizabethtown Fields,Tomatoes,2025-01-09,267.71,Light Intensity,69.28,2025-01-05 19:36:07
+South Elizabethtown Fields,Tomatoes,2025-01-09,267.71,Light Intensity,15.76,2025-01-09 11:49:09
+South Elizabethtown Fields,Mint,2025-01-06,114.76,Light Intensity,69.28,2025-01-05 19:36:07
+South Elizabethtown Fields,Mint,2025-01-06,114.76,Light Intensity,15.76,2025-01-09 11:49:09
+Davidview Fields,Strawberries,2025-01-08,738.13,Light Intensity,43.21,2025-01-04 17:07:11
+Davidview Fields,Strawberries,2025-01-08,738.13,Temperature,38.94,2025-01-01 19:49:58
+Davidview Fields,Strawberries,2025-01-08,738.13,Humidity,61.18,2025-01-01 17:08:27
+Campbelltown Farm,Eggplant,2025-01-03,951.9,Temperature,40.0,2025-01-08 04:12:03
+Campbelltown Farm,Eggplant,2025-01-01,929.04,Temperature,40.0,2025-01-08 04:12:03
+Campbelltown Farm,Cucumbers,2025-01-09,781.07,Temperature,40.0,2025-01-08 04:12:03
+Campbelltown Farm,Cucumbers,2025-01-07,551.9,Temperature,40.0,2025-01-08 04:12:03
+Campbelltown Farm,Spinach,2025-01-08,498.42,Temperature,40.0,2025-01-08 04:12:03
+Lake Victortown Greenhouse,Cucumbers,2025-01-01,720.22,Humidity,90.58,2025-01-10 18:04:54
+Lake Victortown Greenhouse,Cucumbers,2025-01-01,720.22,Temperature,40.0,2025-01-05 06:24:31
+Lake Victortown Greenhouse,Eggplant,2025-01-04,841.57,Humidity,90.58,2025-01-10 18:04:54
+Lake Victortown Greenhouse,Eggplant,2025-01-04,841.57,Temperature,40.0,2025-01-05 06:24:31
+Lake Victortown Greenhouse,Peppers,2025-01-08,978.03,Humidity,90.58,2025-01-10 18:04:54
+Lake Victortown Greenhouse,Peppers,2025-01-08,978.03,Temperature,40.0,2025-01-05 06:24:31
+Tamarashire Farm,Strawberries,2025-01-03,860.29,Humidity,86.52,2025-01-03 05:33:37
+Tamarashire Farm,Strawberries,2025-01-03,860.29,PH,12.0,2025-01-01 15:47:19
+Tamarashire Farm,Strawberries,2025-01-03,860.29,Humidity,37.21,2025-01-09 08:23:13
+Tamarashire Farm,Strawberries,2025-01-03,860.29,Light Intensity,47.81,2025-01-01 03:22:22
+West James Farm,Eggplant,2025-01-05,344.89,PH,12.0,2025-01-06 21:10:21
+West James Farm,Eggplant,2025-01-05,344.89,Humidity,61.06,2025-01-08 15:32:32
+West James Farm,Eggplant,2025-01-05,344.89,PH,12.0,2025-01-10 11:24:03
+South Shawn Plantation,Peppers,2025-01-05,442.19,Light Intensity,40.5,2025-01-03 13:31:13
+West Jeffreyside Orchard,Eggplant,2025-01-01,806.58,PH,12.0,2025-01-10 00:16:53
+West Jeffreyside Orchard,Spinach,2025-01-09,118.04,PH,12.0,2025-01-10 00:16:53
+Port Travisshire Orchard,Eggplant,2025-01-06,710.86,Temperature,40.0,2025-01-08 20:00:59
+Port Travisshire Orchard,Eggplant,2025-01-06,710.86,Temperature,10.0,2025-01-03 22:33:40
+New Christopherville Farm,Mint,2025-01-03,283.17,Temperature,40.0,2025-01-05 06:03:31
+New Christopherville Farm,Mint,2025-01-03,283.17,Humidity,28.08,2025-01-01 23:27:17
+New Christopherville Farm,Mint,2025-01-05,863.9,Temperature,40.0,2025-01-05 06:03:31
+New Christopherville Farm,Mint,2025-01-05,863.9,Humidity,28.08,2025-01-01 23:27:17
+Robertsonberg Greenhouse,Basil,2025-01-05,740.86,Temperature,28.66,2025-01-04 20:13:26
+Robertsonberg Greenhouse,Basil,2025-01-05,740.86,Light Intensity,91.16,2025-01-08 19:51:38
+Nortonhaven Greenhouse,Cucumbers,2025-01-09,172.24,Humidity,45.2,2025-01-01 13:46:07
